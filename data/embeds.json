@@ -1,0 +1,28 @@
+{
+  "on_ready": {
+    "welcome": [
+      {
+        "title": "Welcome - Message 1",
+        "description": "This is the first welcome message.",
+        "color": "#3498db"
+      },
+      {
+        "title": "Welcome - Message 2",
+        "description": "This is the second welcome message.",
+        "color": "#2ecc71"
+      }
+    ],
+    "rules": [
+      {
+        "title": "Rule 1",
+        "description": "This is the first rule.",
+        "color": "#3498db"
+      },
+      {
+        "title": "Rule 2",
+        "description": "This is the second rule.",
+        "color": "#2ecc71"
+      }
+    ]
+  }
+}
