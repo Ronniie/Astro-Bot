@@ -1,0 +1,9 @@
+# Astro Bot .gitignore
+data/cache.json
+.env
+
+# IntelliJ
+.idea
+*.iml
+*.ipr
+*.iws
