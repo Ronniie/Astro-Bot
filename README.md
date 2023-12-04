@@ -17,26 +17,18 @@ Astro Bot is a Discord bot that is currently in development. It is being develop
 Copy `.env.example` to `.env` and fill in the values.
 
 ### Variables
-| Variable | Description |
-#### Discord Bot
-BOT_TOKEN | The Discord Bot Token
-
-#### Your Discord
-GUILD_ID | The Discord Guild ID
-
-#### Verification Settings
-VERIFICATION_CHANNEL_ID | The Discord Channel ID for Verification
-VERIFICATION_ROLE_ID | The Discord Role ID for Verified Users
-
-#### Rules
-RULES_CHANNEL_ID | The Discord Channel ID for Rules
-
-#### Sessions
-SESSION_ANNOUNCEMENTS_CHANNEL_ID | The Discord Channel ID for Session Announcements
-SESSION_BOTS_CHANNEL_ID | The Discord Channel ID for Session Bots
-SESSION_CATEGORY_ID | The Discord Category ID for Sessions
-SESSION_FEEDBACK_CHANNEL_ID | The Discord Channel ID for Session Feedback
-SESSION_COORDINATOR_ROLE_ID | The Discord Role ID for Session Coordinators
+| Variable                          | Description                                       |
+|-----------------------------------|---------------------------------------------------|
+| BOT_TOKEN                         | The Discord Bot Token                             |
+| GUILD_ID                          | The Discord Guild ID                              |
+| VERIFICATION_CHANNEL_ID           | The Discord Channel ID for Verification           |
+| VERIFICATION_ROLE_ID              | The Discord Role ID for Verified Users            |
+| RULES_CHANNEL_ID                  | The Discord Channel ID for Rules                  |
+| SESSION_ANNOUNCEMENTS_CHANNEL_ID  | The Discord Channel ID for Session Announcements  |
+| SESSION_BOTS_CHANNEL_ID           | The Discord Channel ID for Session Bots           |
+| SESSION_CATEGORY_ID               | The Discord Category ID for Sessions              |
+| SESSION_FEEDBACK_CHANNEL_ID       | The Discord Channel ID for Session Feedback       |
+| SESSION_COORDINATOR_ROLE_ID       | The Discord Role ID for Session Coordinators      |
 
 
 ## Disclaimers
