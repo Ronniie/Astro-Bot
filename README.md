@@ -39,3 +39,6 @@ SESSION_FEEDBACK_CHANNEL_ID | The Discord Channel ID for Session Feedback
 SESSION_COORDINATOR_ROLE_ID | The Discord Role ID for Session Coordinators
 
 
+## Disclaimers
+Astro Bot, Sony, PlayStation and all related logos, characters, names, and distinctive likenesses thereof are the exclusive property of Sony Interactive Entertainment LLC. This project is not affiliated with or endorsed by Sony Interactive Entertainment LLC. This project is not affiliated with or endorsed by Discord Inc.
+
